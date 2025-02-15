@@ -5,8 +5,8 @@ import Pic3 from "./assets/p3.png";
 function PortfolioSection() {
   const allProject = [
     { img: Pic1, href: "https://kamrul17.github.io/payment-gateway/" },
-    { img: Pic2, href: "https://kamrul17.github.io/QuoteGenerator/" },
-    { img: Pic3, href: "https://kamrul17.github.io/RockPaperScissors/" },
+    { img: Pic3, href: "https://kamrul17.github.io/QuoteGenerator/" },
+    { img: Pic2, href: "https://kamrul17.github.io/RockPaperScissors/" },
   ];
   return (
     <div className="row  justify-content-evenly body_color" id="portfolio">
